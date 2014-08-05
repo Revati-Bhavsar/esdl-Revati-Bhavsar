@@ -14,4 +14,4 @@ void add()
   cout<<"Enter value of a & b";
   
 }
-c=a+b
+
